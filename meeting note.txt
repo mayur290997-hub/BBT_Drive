@@ -1,0 +1,31 @@
+19/01/21
+meeeting mylo-
+B2C-
+- firebase push notification free
+- send the notification to driver shift time before 15min
+- if we can press the button of notification it goes to home page 
+- we can give the list of all who didn't prees the button
+- one driver assign the one vehicle
+- in start the trip odometer checklist if the vehilce seat is cleaned 
+- trip details ->B2C same operation in both shared bus and cab  
+- when you click on the green button of we open the passanger list, 
+- can we book a ticket the bus when you is in the bus ?
+- timer is for the driver time for stop the position 
+- scan it will be used when passanger can not scan and driver seee red buttonn then cleaner of vehicle   say to sacn the code
+- display the passanger last 4 digit to driver
+- display the pass number and seat no
+- if incomlete the trip take reason and odomeeter number
+
+########
+-B2B
+when you login from corporate 
+there is two tab one is share cab on right and corporate on left
+
+slide 14 -direction will go to google map . driver can call up the passanger. when you complete the trip button will be rempove
+end trip and give odomerter the trip 
+
+
+ 
+
+
+
